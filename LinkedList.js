@@ -116,7 +116,7 @@ l.insertAtBeginning(1);
 l.insertAtEnd(2);
 l.insertAtBeginning(3);
 l.insertAtEnd(4);
-l.insertAt(5, 3);
+l.insertAt(5, 2);
 l.deleteAtBeginning();
 l.deleteAtEnd();
 l.print();
